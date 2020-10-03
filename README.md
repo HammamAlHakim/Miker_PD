@@ -16,6 +16,6 @@ Team name : Tim PD
 
 Teammate :
 
-1. Dimas Angkasa Nurindra
-2. Hammam Al-Hakim
-3. Maulana Hilmi Arkan
+1. [Dimas Angkasa Nurindra](https://github.com/angkasa27)
+2. [Hammam Al-Hakim](https://github.com/halha)
+3. [Maulana Hilmi Arkan](https://github.com/arknmaulana)
